@@ -1,4 +1,4 @@
-Hi, I'm Digital.
+Hi, I'm Digital!
 
 ## Languages
 
@@ -6,3 +6,8 @@ Hi, I'm Digital.
 - HTML (technically not a language but I'll still put it here)
 - Roblox Lua
 - Python (still learning)
+
+## Worked on
+
+- erlc.js
+- (making more)
